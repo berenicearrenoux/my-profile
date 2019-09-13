@@ -1,0 +1,48 @@
+body {
+	color: #878787;
+}
+
+h2 {
+	color: #870058;
+
+}
+
+
+h1 {
+	color: #B8336A;
+
+}
+
+body {
+	background-color: #F6CACA;
+}
+
+h4 { 
+	color: #A4303F;
+
+}
+
+
+}
+
+p {
+	color: rgb(10;10;10);
+}
+
+.card {
+	background-color: white;
+	padding: 24px;
+	margin-bottom: 8px; 
+	border-radius: 8px; 
+	box-shadow: 1px 1px 1px #870058;
+
+}
+
+.container {
+	width: 700px;
+	margin: 10px;
+}
+
+img {
+border-radius: 50%;
+}
